@@ -1,0 +1,28 @@
+#################################################### variables
+
+variables:
+  GO_IMAGE: golang:1.17.0-alpine3.14
+  DEV_DOMAIN: dev.app.digitalverse.ai
+  PROD_DOMAIN: app.digitalverse.ai
+  DEV_NAMESPACE: dv-dev
+  PROD_NAMESPACE: dv-prod
+
+#################################################### includes
+
+include:
+  - project: 'digitalverse/ci'
+    ref: main
+    file: '/build/template.yaml'
+  - local: .gitlab/build/build.yaml
+  - local: .gitlab/deploy/template.yaml
+  - local: .gitlab/deploy/prod.yaml
+  - local: .gitlab/deploy/dev.yaml
+
+#################################################### stages
+
+stages:
+  - install
+  - base
+  - docker-build
+  - plan
+  - deploy
