@@ -7,8 +7,7 @@ The project is built on top of Cudos is a distributed computing platform where s
 
 ## Project User Interface Presentation,Logos and Demo Details 
 
-Find the link attachment where all the valuable and Detailing Information available https://drive.google.com/drive/u/0/folders/1x15e4r9N035AHiJ-tpl_bO-S0mQRhHlo
-
+Find the link attachment where all the valuable and Detailing Information available https://drive.google.com/drive/folders/1x15e4r9N035AHiJ-tpl_bO-S0mQRhHlo?usp=sharing
 ### Problem annotation
 Synthetic media is a realistic transformation of audio and video using artificial intelligence. Currently, there are several applications based on this technology, but it’s developing rapidly, attracting more and more public attention.
 
