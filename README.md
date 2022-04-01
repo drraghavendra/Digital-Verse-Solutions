@@ -28,6 +28,8 @@ With our solution, video creators will be able to purchase a digitized face and 
 
 ## Demo access
 
+DEMO PURPOSE VIDEO can be visible at the following link https://drive.google.com/file/d/1D9W8CPnTxmLmeTGko1VrLvh7deOqliYO/view?usp=sharing
+ 
 
 Recommends for good results: upload small videos (5-20 seconds long), keep your face away from the camera for better quality, use videos with standard lighting.
 
