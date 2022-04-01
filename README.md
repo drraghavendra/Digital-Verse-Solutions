@@ -1,5 +1,5 @@
 
-The project Digital Verse Solutions is built on top of  Cudos India is a platform focused on empowering dApp creators with the means to access Cudos - a high-performance blockchain platform, to solve real-world problems with the power of decentralized ledger technologies (DLTs). We’re intent on incentivising dApp creators to take full advantage of the resource at Cudos to explore its ecosystem to produce high-performance solutions
+The project Digital Verse Solutions is built on top of  Cudos India is a platform focused on empowering dApp creators with the means to access Cudos - a high-performance blockchain platform, to solve real-world problems with the power of decentralized ledger technologies (DLTs). The Decentralized Application allows  creators to take full advantage of the resource at Cudos to explore its ecosystem to produce high-performance solutions
 
 
 
