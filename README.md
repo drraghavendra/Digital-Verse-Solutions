@@ -43,7 +43,6 @@ server runs on port -> localhost:4000
 
 ## Deployed smart contracts
 
-- ./solidity/ - path
 
 
 ### Solana
