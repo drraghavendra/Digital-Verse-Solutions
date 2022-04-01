@@ -30,25 +30,6 @@ With our solution, video creators will be able to purchase a digitized face and 
 
 ## Demo access
 
-### Demo video
-
-https://www.youtube.com/watch?v=oqKDBIsdgkY
-
-### Web interface
-
-Url: https://app.digitalverse.ai/
-
-Email: demo@digitalverse.com
-
-Password: qwerty
-
-### Telegram bot
-
-@digitalverse_bot
-
-### Support
-
-@panichm (telegram account)
 
 Recommends for good results: upload small videos (5-20 seconds long), keep your face away from the camera for better quality, use videos with standard lighting.
 
@@ -225,11 +206,7 @@ Our contracts has all needed basic functions to work with NFT tokens:
 - https://docs.coinex.org/#/en-us/testnet
 - https://testnet.coinex.net/faucet
 
-## Other
 
-- https://github.com/oligot/go-mod-upgrade
-- go mod tidy
-- https://mholt.github.io/curl-to-go/
 
 ## License
 Apache License, Version 2.0
