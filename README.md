@@ -1,7 +1,5 @@
 
-The project is built on top of Cudos is a distributed computing platform where suppliers of hardware monetise the idle time of their hardware, providing blockchains 
-- A layer 2, Turing complete compute capacity
-- Cloud services at a fraction of the cost and with extended personalisation and functionality
+The project Digital Verse Solutions is built on top of  Cudos India is a platform focused on empowering dApp creators with the means to access Cudos - a high-performance blockchain platform, to solve real-world problems with the power of decentralized ledger technologies (DLTs). We’re intent on incentivising dApp creators to take full advantage of the resource at Cudos to explore its ecosystem to produce high-performance solutions
 
 
 
