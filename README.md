@@ -1,6 +1,13 @@
+
+The project is built on top of Cudos is a distributed computing platform where suppliers of hardware monetise the idle time of their hardware, providing blockchains 
+- A layer 2, Turing complete compute capacity
+- Cloud services at a fraction of the cost and with extended personalisation and functionality
+
+
+
 ## Presentation
 
-Materials - https://drive.google.com/drive/folders/1YMkA0egela66tr3zzgOw7-jKlx4zDF_d
+
 
 ### Problem annotation
 Synthetic media is a realistic transformation of audio and video using artificial intelligence. Currently, there are several applications based on this technology, but it’s developing rapidly, attracting more and more public attention.
