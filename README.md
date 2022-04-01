@@ -90,11 +90,10 @@ Our contracts has all needed basic functions to work with NFT tokens:
 
     Uploading a media file to IPFS storage
 
-## Open Issues
-
--
 
 ## Roadmap
+
+We are planning further development of the platform. The current demo version is more intended for testing purposes, so it's UI/UX is a little bit complex. In the production version, the interface will be much simpler and easier to use, i.e. users will only need to upload a video, select a face, pay a fee, and a faceswap video will be automatically generated along with the NFT token. We already have a design for the production version, and we are working on the frontend/backend for further updates.
 
 - Integrate copyrights mechanism
 - Integrate NFT sales/transfer options in UI
