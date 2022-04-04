@@ -20,7 +20,7 @@ Our solution is a blockchain-based NFT marketplace of digital faces with a platf
 
 ### [Platform architecture](https://drive.google.com/file/d/1okLLlZkYLF0E3kLJ49-BNAo5746RGLmB/view?usp=sharing)
 
-The user (for example celebrity) will be able to digitize his face by uploading a video of himself to the platform. Digital avatar of the user will be presented on the platform for the potential customers. After receiving the offer to buy the face, the user will be able to choose whether to sell it for this particular video/commercial. In case of consent, an NFT token gets created.
+Platform is so intuitive that The user for example celebrity will be able to digitize his face by uploading a video of himself to the platform. Digital avatar of the user will be presented on the platform for the potential customers. After receiving the offer to buy the face, the user will be able to choose whether to sell it for this particular video/commercial. In case of consent, an NFT token gets created.
 
 After the token is minted, potential video creators can purchase this NFT, thereby acquiring the right to use the celebrity's face to create one synthetic video.
 
