@@ -26,6 +26,24 @@ After the token is minted, potential video creators can purchase this NFT, there
 
 With our solution, video creators will be able to purchase a digitized face and produce a video with this face on the same platform. And all this without the need for real filming and with digital confirmation on the blockchain. The NFT will eliminate the need to obtain IPR rights, which will be assigned to the video content producers with the purchase of the token.
 
+### Concept & Feasibility
+
+We have identified 2 main areas where our solution may be in demand.
+Video marketing
+
+Video production today is a very expensive process that includes the rent of cameras, studios and payments for the work of actors.
+
+There are several stages of the video creation process:
+
+    Concept development (plot, plans, etc.);
+    Pre-production (preparation of scripts, equipment);
+    Shooting;
+    Post-production (editing of the footage);
+
+Once a commercial is filmed, it is very difficult to make any edits, they are expensive and time-consuming. But instead of shooting a new video for marketing localization, language replacement and other corrections, it's enough to simply edit the existing one on the post production stage using our technology. For example, we are able to remove all parasite words from the video, replace phrases and translate a video into different languages ​​with a natural voice and facial expressions of the actor.
+
+Our target audience is video creation agencies, film studios, and individual authors.
+
 ## Demo access
 
 DEMO PURPOSE VIDEO can be visible at the following link https://drive.google.com/file/d/1D9W8CPnTxmLmeTGko1VrLvh7deOqliYO/view?usp=sharing
