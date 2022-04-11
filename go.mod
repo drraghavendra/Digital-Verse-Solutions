@@ -1,4 +1,4 @@
-module https://github.com/drraghavendra/Digital-Verse-Solutions-Cudos/blockchain
+module https://github.com/drraghavendra/digital-verse-solutions-cudos/pkg/blockchain/
 
 go 1.16
 
