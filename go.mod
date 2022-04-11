@@ -1,4 +1,4 @@
-module gitlab.com/digitalverse/blockchain
+module https://github.com/drraghavendra/Digital-Verse-Solutions-Cudos/blockchain
 
 go 1.16
 
