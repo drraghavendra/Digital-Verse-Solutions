@@ -5,7 +5,7 @@ The project Digital Verse Solutions is built on top of  Cudos India is a platfor
 
 ## Project User Interface Presentation,Descriptiondocuments,PowerpointDocuments Logos and Demo Details 
 
-Find the link attachment where all the valuable and Detailing Information available https://drive.google.com/drive/folders/1x15e4r9N035AHiJ-tpl_bO-S0mQRhHlo?usp=sharing
+Find the link attachment where all the valuable and Detailing Information available 
 ### Problem annotation
 Synthetic media is a realistic transformation of audio and video using artificial intelligence. Currently, there are several applications based on this technology, but it’s developing rapidly, attracting more and more public attention.
 
