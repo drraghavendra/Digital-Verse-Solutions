@@ -77,12 +77,12 @@ Polygon
 
 Near
 
-0xB9520ef6a3B3f308A362694777A28688B356CACd - NFT
-0x004702dcd87B19C3E89A640135604dDDF1618E2C - NFT Market
+      0xB9520ef6a3B3f308A362694777A28688B356CACd - NFT
+      0x004702dcd87B19C3E89A640135604dDDF1618E2C - NFT Market
 
     https://explorer.testnet.near.org/accounts/aurora
-    https://explorer.testnet.near.org/transactions/AfP1PE7C2JQoMUQigAv8pZsDXVAwFqhyG2iwSo9MnN1R,    
-    https://explorer.testnet.near.org/transactions/8S4HzNkFfQMv1SP8UFzB2c3YguKvWKnm5hi8CPeJEkcm ,   
+    https://explorer.testnet.near.org/transactions/AfP1PE7C2JQoMUQigAv8pZsDXVAwFqhyG2iwSo9MnN1R    
+    https://explorer.testnet.near.org/transactions/8S4HzNkFfQMv1SP8UFzB2c3YguKvWKnm5hi8CPeJEkcm 
 Rinkeby
 
     https://rinkeby.etherscan.io/address/0x0ED06150f3Bb1E164d0065fAa4EAbC4843659Ae8 - NFT
