@@ -46,8 +46,7 @@ Our target audience is video creation agencies, film studios, and individual aut
 
 ## Demo access
 
-DEMO PURPOSE VIDEO can be visible at the following link https://drive.google.com/file/d/1D9W8CPnTxmLmeTGko1VrLvh7deOqliYO/view?usp=sharing
- 
+DEMO PURPOSE VIDEO can be visible at the following link 
 
 Recommends for good results: upload small videos (5-20 seconds long), keep your face away from the camera for better quality, use videos with standard lighting.
 
