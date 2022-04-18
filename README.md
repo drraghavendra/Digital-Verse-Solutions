@@ -63,30 +63,82 @@ server runs on port -> localhost:4000
 ## Deployed smart contracts
 
 
+ ./solidity/ - path
 
-### Solana
+Velas
 
-- 0xBf1550d38FADc10afa665C0F4bDA3cA0dc77BDBb - NFT
-- 0xE89Cd3B9e0999c840BA68b9069e368A73975700d - NFT Market
+    https://evmexplorer.testnet.velas.com/address/0x751b3E29Bf43F24B8320c2e9e7a7912685D990D9 - NFT
+    https://evmexplorer.testnet.velas.com/address/0xeFdF962B6F5a13599576c9F927F22980b25a9975 - NFT Market
 
+Polygon
 
+    https://mumbai.polygonscan.com/token/0xBf1550d38FADc10afa665C0F4bDA3cA0dc77BDBb - NFT
+    https://mumbai.polygonscan.com/token/0x1D2A0bA44f522dE56Bf8fa83C312B8BdACfC20eB - NFT Market
 
-### Harmony
+Near
 
-- https://explorer.pops.one/address/0xbd16bc509618bbf2f703b438684f7258a2ca63f4 - NFT
-- https://explorer.pops.one/address/0x026b95E954768334f9101d20fe15DB472A40167c - NFT Market
+    https://explorer.testnet.near.org/accounts/aurora
+    https://explorer.testnet.near.org/transactions/AfP1PE7C2JQoMUQigAv8pZsDXVAwFqhyG2iwSo9MnN1R, 0xB9520ef6a3B3f308A362694777A28688B356CACd - NFT
+    https://explorer.testnet.near.org/transactions/8S4HzNkFfQMv1SP8UFzB2c3YguKvWKnm5hi8CPeJEkcm , 0x004702dcd87B19C3E89A640135604dDDF1618E2C - NFT Market
+
+Rinkeby
+
+    https://rinkeby.etherscan.io/address/0x0ED06150f3Bb1E164d0065fAa4EAbC4843659Ae8 - NFT
+    https://rinkeby.etherscan.io/address/0x37d6d59448778AFAcc14E880D0A2dfb3A36253d9 - NFT Market
+
+Heco
+
+    https://testnet.hecoinfo.com/address/0x3b2e02ABB28d8a124748e78E1fDE31B4F7520a7c - NFT
+    https://testnet.hecoinfo.com/address/0x3b3ab07FabF9AFCb20952CE936673f1c27f9654C - NFT Market
+
+Solana
+
+    0xBf1550d38FADc10afa665C0F4bDA3cA0dc77BDBb - NFT
+    0xE89Cd3B9e0999c840BA68b9069e368A73975700d - NFT Market
+
+OKExChain
+
+    https://www.oklink.com/okexchain-test/address/0x1D2A0bA44f522dE56Bf8fa83C312B8BdACfC20eB - NFT
+    https://www.oklink.com/okexchain-test/address/0xE89Cd3B9e0999c840BA68b9069e368A73975700d - NFT Market
+
+Theta
+
+    https://testnet-explorer.thetatoken.org/account/0x1D2A0bA44f522dE56Bf8fa83C312B8BdACfC20eB - NFT
+    https://testnet-explorer.thetatoken.org/account/0xe89cd3b9e0999c840ba68b9069e368a73975700d - NFT Market
+
+Cronos
+
+    https://cronos.crypto.org/explorer/testnet3/address/0x1D2A0bA44f522dE56Bf8fa83C312B8BdACfC20eB - NFT
+    https://cronos.crypto.org/explorer/testnet3/address/0xE89Cd3B9e0999c840BA68b9069e368A73975700d - NFT Market
+
+Celo
+
+    https://alfajores-blockscout.celo-testnet.org/address/0x1D2A0bA44f522dE56Bf8fa83C312B8BdACfC20eB - NFT
+    https://alfajores-blockscout.celo-testnet.org/address/0xE89Cd3B9e0999c840BA68b9069e368A73975700d - NFT Market
+
+Okex
+
+    https://testnet.coinex.net/address/0x1D2A0bA44f522dE56Bf8fa83C312B8BdACfC20eB - NFT
+    https://testnet.coinex.net/address/0xE89Cd3B9e0999c840BA68b9069e368A73975700d - NFT Market
+
+Harmony
+
+    https://explorer.pops.one/address/0xbd16bc509618bbf2f703b438684f7258a2ca63f4 - NFT
+    https://explorer.pops.one/address/0x026b95E954768334f9101d20fe15DB472A40167c - NFT Market
 
 Our contracts has all needed basic functions to work with NFT tokens:
 
-- **MintTokenToAddress(address owner, string memory metadataURI)**
+    MintTokenToAddress(address owner, string memory metadataURI)
 
     Allows you to mint a NFT token.
-- **TransferFrom(address from, address to, uint256 tokenId)**
+
+    TransferFrom(address from, address to, uint256 tokenId)
 
     Allows you to transfer any NFT token on other address.
-- **Implementation of access control**
 
-- **NFT Market**
+    Implementation of access control
+
+    NFT Market
 
     Allows you to list and sell created NFT tokens. Functions:
 
@@ -98,16 +150,15 @@ Our contracts has all needed basic functions to work with NFT tokens:
 
     fetchMyNFTs() public view returns (MarketItem[] memory)
 
-## API
+API
 
-- **{server}/create/{name}**
+    {server}/create/{name}
 
     Allows you to mint a NFT token
 
-- **{server}/upload_file_to_ipfs**
+    {server}/upload_file_to_ipfs
 
     Uploading a media file to IPFS storage
-
 
 ## Roadmap
 
