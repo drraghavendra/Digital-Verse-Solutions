@@ -2,6 +2,9 @@
 The project Digital Verse Solutions is built on top of  Cudos India is a platform focused on empowering dApp creators with the means to access Cudos - a high-performance blockchain platform, to solve real-world problems with the power of decentralized ledger technologies (DLTs). The Decentralized Application allows  creators to take full advantage of the resource at Cudos to explore its ecosystem to produce high-performance solutions
 
 
+Security The cryptography in this SDK is sourced from the public RustCrypto repositories. This is a very mature and widely used library, but the elliptic curve arithmetic contained in these crates has never been independently audited. Use at your own risk. Remember that you will be dealing with private keys, which can be more powerful and dangerous than passwords. Please treat them as such
+
+Google document considered are https://cloud.google.com/solutions/modern-password-security-for-system-designers.pdf
 
 ## Project User Interface Presentation,Descriptiondocuments,PowerpointDocuments Logos and Demo Details 
 
