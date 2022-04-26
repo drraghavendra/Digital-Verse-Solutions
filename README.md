@@ -4,7 +4,7 @@ The project Digital Verse Solutions is built on top of  Cudos India is a platfor
 
 Security The cryptography in this SDK is sourced from the public RustCrypto repositories. This is a very mature and widely used library, but the elliptic curve arithmetic contained in these crates has never been independently audited. Use at your own risk. Remember that you will be dealing with private keys, which can be more powerful and dangerous than passwords. Please treat them as such
 
-Google document considered are https://cloud.google.com/solutions/modern-password-security-for-system-designers.pdf
+
 
 ## Project User Interface Presentation,Descriptiondocuments,PowerpointDocuments Logos and Demo Details 
 
