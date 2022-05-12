@@ -195,8 +195,12 @@ We are planning further development of the platform. The current demo version is
 - https://docs.harmony.one/home/developers/tools/remix-ide
 - https://docs.harmony.one/home/developers/network-and-faucets
 
-
-
+  Code Run instructons 
+  
+docker run --rm -v "$(pwd)":/code \
+  --mount type=volume,source="$(basename "$(pwd)")_cache",target=/code/target \
+  --mount type=volume,source=registry_cache,target=/usr/local/cargo/registry \
+  cosmwasm/workspace-optimizer:0.12.4
 
 
 ## License
