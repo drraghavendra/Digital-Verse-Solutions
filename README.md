@@ -185,6 +185,17 @@ We are planning further development of the platform. The current demo version is
 
 ## Blockchains
 
+Ethereum
+
+    https://wizard.openzeppelin.com
+    https://docs.openzeppelin.com/contracts/3.x/api/presets
+    https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-remix/6358
+    https://goethereumbook.org/en/smart-contract-compile/
+    https://www.freeformatter.com/json-formatter.html
+    https://testnets-api.opensea.io/asset/0xBf1550d38FADc10afa665C0F4bDA3cA0dc77BDBb/1/validate/
+
+
+
 ### Solana
 
 - https://doc.neonlabs.org/docs/devportal/testnet/deploy_contract_via_remix/
