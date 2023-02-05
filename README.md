@@ -1,15 +1,5 @@
 
-
-
-
-
-
-## Project User Interface Presentation,Descriptiondocuments,PowerpointDocuments Logos and Demo Details 
-
-https://drive.google.com/drive/folders/1x15e4r9N035AHiJ-tpl_bO-S0mQRhHlo?usp=sharing
-
-Find the link attachment where all the valuable and Detailing Information available 
-### Problem annotation
+### Project objective
 Synthetic media is a realistic transformation of audio and video using artificial intelligence. Currently, there are several applications based on this technology, but it’s developing rapidly, attracting more and more public attention.
 
 - On one hand, this technology is a holy grail for advertisers and filmmakers which can give them endless opportunities to use any faces of  celebrities in their projects. With the help of our platform, the celebrity will be able to pronounce the text of the commercial in all the world's known languages. The advertiser will have a chance to create a separate commercial for ten thousand products, having only one digitized version of the celebrity's face. Film producers won't have to pay multimillion-dollar royalties to celebrities, it will be enough to buy their face.
@@ -214,6 +204,12 @@ docker run --rm -v "$(pwd)":/code \
 
 ## License
 Apache License, Version 2.0
+
+## Project User Interface Presentation,Descriptiondocuments,PowerpointDocuments Logos and Demo Details 
+
+https://drive.google.com/drive/folders/1x15e4r9N035AHiJ-tpl_bO-S0mQRhHlo?usp=sharing
+
+Find the link attachment where all the valuable and Detailing Information available 
 
 
 How to use
